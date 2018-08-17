@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: nodejssqldb9327.azurecr.io/nodejssqldb
+  repository: AKSNodejsSQLDBb584.azurecr.io/nodejssqldb
   tag: latest
   pullPolicy: Always
 
